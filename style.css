@@ -19,6 +19,28 @@
     background: #b30000; 
   }
 
-  @media (max-width: 400px){
-   
+  @media (max-width: 1000px){
+    .rasm1{
+      display: none;
+    }
+    .rasm2{
+      display: none;
+    }
+
+
+    ::-webkit-scrollbar {
+      width: 12px;
+    }
+    
+    /* Track */
+    ::-webkit-scrollbar-track {
+      box-shadow: inset 0 0 5px grey; 
+      border-radius: 10px;
+    }
+     
+    /* Handle */
+    ::-webkit-scrollbar-thumb {
+      background-color: goldenrod; 
+      border-radius: 10px;
+    }
   }

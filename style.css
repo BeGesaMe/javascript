@@ -18,3 +18,7 @@
   ::-webkit-scrollbar-thumb:hover {
     background: #b30000; 
   }
+
+  @media (max-width: 400px){
+   
+  }

@@ -43,4 +43,14 @@
       background-color: goldenrod; 
       border-radius: 10px;
     }
+    .asosiy-text{
+      text-align: center;
+      /* border: solid red ; */
+      font-size: 20px;
+    }
+    .darslar{
+      /* border: solid red; */
+      /* margin-right: 20px; */
+      margin-left: 0px !important;
+    }
   }
